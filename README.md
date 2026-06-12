@@ -1,5 +1,4 @@
 # NLP-articles-summarization
-Here's a well-structured README description for your project:
 ### Text Summarization: Extractive and Abstractive Approaches
 
 A structured NLP pipeline that implements and compares two text summarization techniques — **TF-IDF extractive summarization** and **BART-based abstractive summarization** — evaluated using ROUGE metrics.
